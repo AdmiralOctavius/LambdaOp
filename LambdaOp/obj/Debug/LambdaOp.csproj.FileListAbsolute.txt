@@ -1,0 +1,7 @@
+C:\Users\bennett253\source\repos\LambdaOp\LambdaOp\bin\Debug\LambdaOp.exe.config
+C:\Users\bennett253\source\repos\LambdaOp\LambdaOp\bin\Debug\LambdaOp.exe
+C:\Users\bennett253\source\repos\LambdaOp\LambdaOp\bin\Debug\LambdaOp.pdb
+C:\Users\bennett253\source\repos\LambdaOp\LambdaOp\obj\Debug\LambdaOp.csprojAssemblyReference.cache
+C:\Users\bennett253\source\repos\LambdaOp\LambdaOp\obj\Debug\LambdaOp.csproj.CoreCompileInputs.cache
+C:\Users\bennett253\source\repos\LambdaOp\LambdaOp\obj\Debug\LambdaOp.exe
+C:\Users\bennett253\source\repos\LambdaOp\LambdaOp\obj\Debug\LambdaOp.pdb

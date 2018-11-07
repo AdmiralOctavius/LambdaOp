@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaOp", "LambdaOp\LambdaOp.csproj", "{BFA06212-A2DF-4437-A640-FBCA8D11F2CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFA06212-A2DF-4437-A640-FBCA8D11F2CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA06212-A2DF-4437-A640-FBCA8D11F2CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA06212-A2DF-4437-A640-FBCA8D11F2CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA06212-A2DF-4437-A640-FBCA8D11F2CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2F0EB75-AF4C-47D6-922B-C2E05271B2FC}
+	EndGlobalSection
+EndGlobal
